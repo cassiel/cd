@@ -1,0 +1,506 @@
+┌────────────────────────────────────────────────┬─────────────────────────────────────────────────┬──────┬───────┬──────┬───────┐
+│ artist                                         │ album                                           │ mp3  │ flac  │ wav  │ aiff  │
+├────────────────────────────────────────────────┼─────────────────────────────────────────────────┼──────┼───────┼──────┼───────┤
+│ 777                                            ╎ 777                                             ╎ .mp3 ╎       ╎      ╎       │
+│ Acantus                                        ╎ Acantus                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Acid Brass                                     ╎ Acid Brass                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Adam Schabtach                                 ╎ Elephant Island                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Agnes Buen Garnås_Jan Garbarek                 ╎ Rosensfole                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Anderson Bruford Wakeman Howe                  ╎ Anderson Bruford Wakeman Howe                   ╎ .mp3 ╎       ╎      ╎       │
+│ Angelo Badalamenti                             ╎ Twin Peaks                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Anne Dudley                                    ╎ Ancient and Modern                              ╎ .mp3 ╎       ╎      ╎       │
+│ Anne Dudley and Jaz Coleman                    ╎ Songs from the Victorious City                  ╎ .mp3 ╎       ╎      ╎       │
+│ Annie Lennox                                   ╎ Diva                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Aphex Twin                                     ╎ Selected Ambient Works 85-92                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Selected Ambient Works, Volume II               ╎ .mp3 ╎       ╎      ╎       │
+│ Aram Khachaturian                              ╎ Gayane                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Art of Noise                                   ╎ The Ambient Collection                          ╎ .mp3 ╎       ╎      ╎       │
+│ Arvo Pärt                                      ╎ De Profundis                                    ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Litany                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Pärt - Fratres - I Fiamminghi                   ╎ .mp3 ╎       ╎      ╎       │
+│ BBC                                            ╎ Deutsch Direkt                                  ╎ .mp3 ╎       ╎      ╎       │
+│ Bark!                                          ╎ Swing                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Bernard Haitink, London Philharmonic Orches... ╎ Sinfonia Antartica                              ╎ .mp3 ╎       ╎      ╎       │
+│ Bernard Haitink_ London Philharmonic Orchestra ╎ Shostakovich_ Symphony #4                       ╎ .mp3 ╎       ╎      ╎       │
+│ Biosphere                                      ╎ Patashnik                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Björk                                          ╎ Vespertine                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Brad Garton                                    ╎ The Gregory Remixes                             ╎ .mp3 ╎       ╎      ╎       │
+│ Brian Eno & David Byrne                        ╎ My Life in the Bush of Ghosts                   ╎ .mp3 ╎       ╎      ╎       │
+│ Brian Reinbolt                                 ╎ It's Not That Simple                            ╎ .mp3 ╎       ╎      ╎       │
+│ CASSIEL                                        ╎ Bullring Xmas 2007                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ CDA                                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ CK_20160304                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Hacking Choreography 2.0                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Herd 20090123                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Listen_Move                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ SJCD 2010-06-03                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ SJDC_ Counterpoint                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ TooMortal                                       ╎      ╎       ╎      ╎ .aiff │
+│                                                ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ none                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Camel                                          ╎ Rain Dances                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Snow Goose                                  ╎ .mp3 ╎       ╎      ╎       │
+│ Cauld Blast Orchestra                          ╎ Durga's Feast                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Savage Dance                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Choir of King's College - Cleobury             ╎ Tallis_ Spem in alium, etc                      ╎ .mp3 ╎       ╎      ╎       │
+│ Christopher Franke                             ╎ Babylon 5                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Babylon 5_ Darkness Ascending                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Pacific Coast Highway                           ╎ .mp3 ╎       ╎      ╎       │
+│ Clannad                                        ╎ Anam                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Macalla                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Claude Debussy                                 ╎ 16 Préludes                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Clayton Alexander                              ╎ W                                               ╎ .mp3 ╎       ╎      ╎       │
+│ Cliff Martinez                                 ╎ Solaris                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Cluster                                        ╎ Grosses Wasser                                  ╎ .mp3 ╎       ╎      ╎       │
+│ Combs Creek Haller                             ╎ Singularity                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Compilations                                   ╎ A Brief History of Ambient Volume 1             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ A Chance Operation_ The John Cage Tribute       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Anokha - Soundz of the Asian Underground        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Arabic Chillout                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Beethoven_ Symphonies                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Breakdown - Euphoric Chillout Mixes             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cybersphere                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Dances of the World                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Deutsche Elektronische Musik 1                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Deutsche Elektronische Musik 2                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Diaghilev and the Golden Age of the Ballets ... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Early Romantic Overtures                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ FAX Compilation                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Gladiator                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Kancheli-Pärt                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Melodic Warrior                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Music from Vietnam                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ One World One Voice                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Passion Sources                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Pina_ Tanzt, Tanzt, Sonst Sind Wir Verloren     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Plus from Us                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Poem                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Prokofiev Symphony No.5                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Reich_ Different Trains, Electric Counterpoint  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Richter_ From Sleep                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Rothko Chapel _ Why Patterns_                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Short Cuts (Breaking the Sound Barrier)         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Shostakovich_ Symphony No.5, Op. 47, Rachman... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Space_1999 40th Anniversary Year One            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Submission 01 (DiNDDL10)                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Sufi - Ney-I                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Surreality                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Adventures of Robinson Crusoe               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Deseo Remixes                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Instrumental Works                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Planets _ Lux aeterna                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Red Shoes                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Seduction of Claude Debussy                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Until the End of the World                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Upshares, Downshares - The CD                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ VA - Patchwork - Friends & SubConsciousMind     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Walton, William_ Symphony No. 1; Portsmouth ... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Wings of Desire                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ [PS015] Number Stations                         ╎ .mp3 ╎       ╎      ╎       │
+│ Conrad Schnitzler                              ╎ Ballet Statique                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Dave Fulton _ Giles Reaves                     ╎ The Range                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Dave Stapleton                                 ╎ Catching Sunlight                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Flight                                          ╎ .mp3 ╎       ╎      ╎       │
+│ David Bowie                                    ╎ Cat People                                      ╎ .mp3 ╎       ╎      ╎       │
+│ David Hare                                     ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│ David Stevens                                  ╎ Resonant                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Dead Can Dance                                 ╎ Aion                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Into the Labyrinth                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Serpent's Egg                               ╎ .mp3 ╎       ╎      ╎       │
+│ Decapolis                                      ╎ 2nd Flight                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Diaghilev                                      ╎ Diaghilev and the Golden Age of the Ballets ... ╎ .mp3 ╎       ╎      ╎       │
+│ Different Skies                                ╎ Arcosanitarium                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ That Merciless Sky                              ╎ .mp3 ╎       ╎      ╎       │
+│ Doubting Thomas                                ╎ The Infidel                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Doug Wyatt                                     ╎ The Dream of 'I'                                ╎ .mp3 ╎       ╎      ╎       │
+│ Dub Atomica (Ian Boddy & Nigel Mullaney)       ╎ Dub Atomica (Ian Boddy & Nigel Mullaney) - A... ╎      ╎ .flac ╎      ╎       │
+│ Edgar Froese                                   ╎ Beyond the Storm                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Epsilon in Malaysian Pale                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Kamikaze 1989                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Macula Transfer                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Pinnacles                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Stuntman                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ aqua                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Emerald Adrift                                 ╎ The Blue Flower                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Enigma                                         ╎ MCMXC a.D_                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Ennio Morricone                                ╎ A Fistful of Dollars & For a Few Dollars More   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Il Buono, Il Brutto, Il Cattivo                 ╎ .mp3 ╎       ╎      ╎       │
+│ Enya                                           ╎ Enya                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Watermark                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Erik Truffaz & Murcof                          ╎ Being Human Being                               ╎ .mp3 ╎       ╎      ╎       │
+│ Eurythmics                                     ╎ Sweet Dreams (are Made of This)                 ╎ .mp3 ╎       ╎      ╎       │
+│ Evelyn Glennie                                 ╎ Rhythm Song                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Freida Abtan                                   ╎ The Hands of the Dancer                         ╎ .mp3 ╎       ╎      ╎       │
+│ Furt                                           ╎ Dead or Alive                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Genesis                                        ╎ Foxtrot                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ _..And Then There Were Three.._                 ╎ .mp3 ╎       ╎      ╎       │
+│ George Fenton & Jonas Gwangwa                  ╎ Cry Freedom                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Giorgio Moroder                                ╎ Cat People                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ From Here to Eternity                           ╎ .mp3 ╎       ╎      ╎       │
+│ Giya Kancheli                                  ╎ Abii Ne Viderem                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Exil                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Global Communication                           ╎ 76 14                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Glyn Lloyd-Jones                               ╎ Ocean of Serenity                               ╎ .mp3 ╎       ╎      ╎       │
+│ Gotan Project                                  ╎ La Revancha Del Tango                           ╎ .mp3 ╎       ╎      ╎       │
+│ Greg Hurley                                    ╎ Welcome!                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Gregory Taylor                                 ╎ 04Q4                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ 05Q2                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ 05Q3                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ 06Q1                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Grosskopf (Harald)                             ╎ Best of Harald Grosskopf                        ╎ .mp3 ╎       ╎      ╎       │
+│ Halfdan E                                      ╎ Borgen (Music from the Original TV Series)      ╎ .mp3 ╎       ╎      ╎       │
+│ Hans Zimmer and Lisa Gerrard                   ╎ Gladiator                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Harem                                          ╎ Rhythm Colour                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Haslinger                                      ╎ Future Primitive                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ World Without Rules                             ╎ .mp3 ╎       ╎      ╎       │
+│ Herbert Von Karajan; Berlin Philharmonic Or... ╎ Beethoven_ Symphonies                           ╎ .mp3 ╎       ╎      ╎       │
+│ Hoenig _ Göttsching                            ╎ Early Water                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Hurley                                         ╎ Revolve                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Ian Boddy                                      ╎ Ian Boddy - Box Of Secrets (DiN1)               ╎      ╎ .flac ╎      ╎       │
+│ Ian Boddy & Markus Reuter                      ╎ Ian Boddy & Markus Reuter - Distant Rituals ... ╎      ╎       ╎ .wav ╎       │
+│ Irmler + Liebezeit                             ╎ Flut                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Jan Garbarek                                   ╎ I Took Up the Runes                             ╎ .mp3 ╎       ╎      ╎       │
+│ Jan Garbarek _ The Hilliard Ensemble           ╎ Officium                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Jan Hammer                                     ╎ Escape from Television                          ╎ .mp3 ╎       ╎      ╎       │
+│ Jane Bom-Bane                                  ╎ I've Got a Goldfish Bowl on my Head             ╎ .mp3 ╎       ╎      ╎       │
+│ Jane Chapman                                   ╎ Wired                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Jean Claude Petit                              ╎ Cyrano de Bergerac                              ╎ .mp3 ╎       ╎      ╎       │
+│ Jean-Michel Jarre                              ╎ Chronologie                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cities in Concert - Houston_Lyon [Version 2]    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Equinoxe                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Magnetic Fields (Les Chants Magnétiques)        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Métamorphoses                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Odyssey Through O2                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Oxygène                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Oxygène 7-13                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Oxygène Trilogy [Disc 1]                        ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Oxygène Trilogy [Disc 2]                        ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Oxygène Trilogy [Disc 3]                        ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Rendez-Vous                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Revolutions                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Sessions 2000                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Concerts in China                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Waiting for Cousteau                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Zoolook                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Jeff Wayne                                     ╎ The War of the Worlds                           ╎ .mp3 ╎       ╎      ╎       │
+│ Jerome & Edgar Froese                          ╎ Final Movement                                  ╎      ╎ .flac ╎      ╎       │
+│ Joe McMahon                                    ╎ Ocean Music                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Shatterday                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Johannes Schmoelling                           ╎ Songs No Words - Lieder ohne Worte              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Zoo of Tranquility                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ White Out                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Wuivend Riet                                    ╎ .mp3 ╎       ╎      ╎       │
+│ John Barry                                     ╎ Dances With Wolves                              ╎ .mp3 ╎       ╎      ╎       │
+│ John Duvall                                    ╎ Hell's Canyon                                   ╎ .mp3 ╎       ╎      ╎       │
+│ John Foxx                                      ╎ Assembly                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cathedral Oceans                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cathedral Oceans II                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cathedral Oceans III                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Metamatic                                       ╎ .mp3 ╎       ╎      ╎       │
+│ John Foxx & Louis Gordon                       ╎ Shifting City                                   ╎ .mp3 ╎       ╎      ╎       │
+│ John Tavener                                   ╎ Two Hymns to the Mother of God                  ╎ .mp3 ╎       ╎      ╎       │
+│ John Taverner - Missa Gloria tibi Trinitati... ╎ Taverner_Missa Gloria tibi Trinitatis - Parrott ╎ .mp3 ╎       ╎      ╎       │
+│ Jon and Vangelis                               ╎ Short Stories                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Juana Molina                                   ╎ Son                                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Un Día                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Wed 21                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Julee Cruise                                   ╎ Floating into the Night                         ╎ .mp3 ╎       ╎      ╎       │
+│ Jun Miyake                                     ╎ Stolen From Strangers                           ╎ .mp3 ╎       ╎      ╎       │
+│ KODO                                           ╎ Heartbeat Drummers of Japan                     ╎ .mp3 ╎       ╎      ╎       │
+│ Kardeş Türküler                                ╎ Dogu                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Kate Bush                                      ╎ Hounds of Love                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Dreaming                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Kick Inside                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Klaus Schulze                                  ╎ Audentity                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Beyond Recall                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Blackdance                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Blanche                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Dig It                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Dune                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ En=Trance                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Mirage                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Film Musik                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Life in Ecstasy                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Machine de plaisir              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Mysterious Tapes                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Narren des Schicksals           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Picasso geht Spazieren          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Sense of Beauty                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ The Music Box                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Edition_ Was var vor der Zeit            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Dome Event                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Timewind                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Trancefer                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ X                                               ╎ .mp3 ╎       ╎      ╎       │
+│ Klaus Schulze & Andreas Grosser                ╎ Babel                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Klaus Schulze & Lisa Gerrard                   ╎ Farscape                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Korhan Erel                                    ╎ Public Computing                                ╎ .mp3 ╎       ╎      ╎       │
+│ Kraftwerk                                      ╎ Radio-Activity                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Man Machine                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Labrathisattva                                 ╎ The View From Down Here                         ╎ .mp3 ╎       ╎      ╎       │
+│ Ladysmith Black Mambazo                        ╎ Shaka Zulu                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Laura Cannell                                  ╎ Simultaneous Flight Movement                    ╎ .mp3 ╎       ╎      ╎       │
+│ Laurie Anderson                                ╎ Bright Red                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Life on a String                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tightrope                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Lawrence Casserley                             ╎ The Edge of Chaos                               ╎ .mp3 ╎       ╎      ╎       │
+│ Le Mystère des Voix Bulgares                   ╎ From Bulgaria with Love                         ╎ .mp3 ╎       ╎      ╎       │
+│ Leslie Stuck                                   ╎ Pas                                             ╎ .mp3 ╎       ╎      ╎       │
+│ Lightwave                                      ╎ Tycho Brahe                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Lisa Gerrard                                   ╎ The Mirror Pool                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Lisa Gerrard & Patrick Cassidy                 ╎ Immortal Memory                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Lisa Gerrard & Pieter Bourke                   ╎ Duality                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Louis and Bebe Barron                          ╎ Forbidden Planet - Original Soundtrack          ╎ .mp3 ╎       ╎      ╎       │
+│ Malcolm McLaren and the Bootzilla Orchestra    ╎ Waltz Darling                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Maria Coma                                     ╎ Magnòlia                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Mark Isham                                     ╎ Film Music                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Matthew G. Davidson                            ╎ Blue Forest Mass                                ╎ .mp3 ╎       ╎      ╎       │
+│ Maurice Jarre                                  ╎ Ghost                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Meredith Monk w Robert Een                     ╎ Facing North                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Michael Hoenig                                 ╎ Departure from the Northern Wasteland           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Xcept One                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Michael Nyman                                  ╎ Nyman_ The Piano Concerto, MGV (Musique à Gr... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Prospero's Books                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Piano                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Mike Metlay                                    ╎ metric                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Mike Oldfield                                  ╎ Amarok                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Boxed                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Incantations                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Platinum                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ QE2                                             ╎ .mp3 ╎       ╎      ╎       │
+│ Misirli Ahmet                                  ╎ Mel de Cabra                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Mouth Music                                    ╎ Mouth Music                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Nash Ensemble                                  ╎ Debussy Chamber Music                           ╎ .mp3 ╎       ╎      ╎       │
+│ Natacha Atlas                                  ╎ Ayeshteni                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Neneh Cherry                                   ╎ Raw Like Sushi                                  ╎ .mp3 ╎       ╎      ╎       │
+│ Neotropic                                      ╎ Architects and Heroes - Equestrienne Remixes... ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ White Rabbits                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Nick Cave and the Bad Seeds                    ╎ Do You Love Me_                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Node                                           ╎ Node                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Node - Node 2 (DiN44)                           ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Node - Node Live (DiN55)                        ╎      ╎ .flac ╎      ╎       │
+│ Otso Pakarinen                                 ╎ Tunti Sitten                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Oumou Sangare                                  ╎ Ko Sira                                         ╎ .mp3 ╎       ╎      ╎       │
+│ Ozma                                           ╎ A Huge and Silent Place                         ╎ .mp3 ╎       ╎      ╎       │
+│ Ozone Player                                   ╎ E                                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Frozen Paint on Boiling Canvas                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Orange Apples                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Videozone                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Ozone Player _ Matt Howarth                    ╎ Long-Range Influence                            ╎ .mp3 ╎       ╎      ╎       │
+│ PGT                                            ╎ Temporary Habitations                           ╎ .mp3 ╎       ╎      ╎       │
+│ Palancar                                       ╎ Serenitatis                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Pamplemousse                                   ╎ E(scapes)                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Noodles for Tomorrow                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Thoughts                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Passengers                                     ╎ Original Soundtracks 1                          ╎ .mp3 ╎       ╎      ╎       │
+│ Paul Nagle                                     ╎ Earthshaper                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Peter Baumann                                  ╎ Machines of Desire                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Romance 76                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Trans Harmonic Nights                           ╎      ╎ .flac ╎      ╎       │
+│ Peter Gabriel                                  ╎ PG4                                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Passion                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Plays Live                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Philip Glass                                   ╎ Glassworks                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Powaqqatsi                                      ╎ .mp3 ╎       ╎      ╎       │
+│ Philip Jeck                                    ╎ Loopholes                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Piano Circus                                   ╎ transmission                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Pink Floyd                                     ╎ The Dark Side of the Moon                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Wish You Were Here                              ╎ .mp3 ╎       ╎      ╎       │
+│ Podcasts                                       ╎ A History of the World in 100 Objects           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ A Point of View                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Art + Music + Technology                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Best of Today                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Breakfast Show Specialist Classical Chart       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Click                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Codes that Changed the World                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Computing Britain                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ David Attenborough_s Life Stories               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ DumTeeDum - A show about The BBC show The Ar... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ DumTeeDum - A show about The BBC's The Archers  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Friday Night Comedy from BBC Radio 4            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Friday Night Comedy from BBC Radio 4 Podcast    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ From Our Own Correspondent                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ In Our Time                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ In Our Time With Melvyn Bragg                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Late Junction Sessions                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ More or Less_ Behind the Stats                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ More or Less_ Behind the Stats Podcast          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ My Daily Phrase German                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ New Departures                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ New Music Strategies                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Our Man in the Middle East                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Reith Lectures                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ SOUND ON SOUND_ 27+ Years as the Trusted Ind... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Science Weekly                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Shift Run Stop                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Slow German                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Archers                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Life Scientific                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Radio 3 Documentary                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Reith Lectures                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Sonic Arts Network Podcast Series           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tweet of the Day                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ War and Peace                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Portico Quartet                                ╎ Knee-Deep in the North Sea                      ╎ .mp3 ╎       ╎      ╎       │
+│ Rakkas                                         ╎ Rakkas                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Ravi Shankar                                   ╎ Inside the Kremlin                              ╎ .mp3 ╎       ╎      ╎       │
+│ Redshift                                       ╎ Redshift IV - Siren                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Redshift V - Halo                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Wild                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Rhythm and Roots                               ╎ Rhythm and Roots - A Guide to the Birdsong o... ╎      ╎ .flac ╎      ╎       │
+│ Rick Wakeman                                   ╎ The Six Wives of Henry VIII                     ╎ .mp3 ╎       ╎      ╎       │
+│ Rokia Traoré                                   ╎ Beautiful Africa                                ╎ .mp3 ╎       ╎      ╎       │
+│ Royal Liverpool Philharmonic Orchestra, Lib... ╎ Suk_ Asrael Symphony in C minor, Op. 27         ╎ .mp3 ╎       ╎      ╎       │
+│ Ry Cooder                                      ╎ Paris, Texas                                    ╎ .mp3 ╎       ╎      ╎       │
+│ Röyksopp                                       ╎ Melody A.M_                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Samuel Barber_Levi - McNair                    ╎ Music of Samuel Barber _ Levi - Atlanta Symp... ╎ .mp3 ╎       ╎      ╎       │
+│ Scanner                                        ╎ Lauwarm Instrumentals                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Publicphono                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Rockets, Unto the Edges of Edges                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Scanner                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Voyager_ Amongst others                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Warners Classics                                ╎ .mp3 ╎       ╎      ╎       │
+│ Schicke - Führs - Fröhling                     ╎ The Collected Works of Schicke - Führs - Frö... ╎ .mp3 ╎       ╎      ╎       │
+│ Seiji Ozawa; Boston Symphony Orchestra         ╎ Orff_ Carmina Burana                            ╎ .mp3 ╎       ╎      ╎       │
+│ Selahattin Eyüp                                ╎ Sufi - Ney-II                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Selahattin Eyüp _ Cemal Öztürk                 ╎ Sufi - Ney-Ud                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Selahattin Eyüp _ Halil Serin                  ╎ Sufi - Ney-Tabur                                ╎ .mp3 ╎       ╎      ╎       │
+│ Selahattin Eyüp _ Refik Altınay                ╎ Ney - Kanun                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Sensitive Chaos                                ╎ Emerging Transparency                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Leak                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Live At Academe Benefit 12_06_08                ╎ .mp3 ╎       ╎      ╎       │
+│ Señor Coconut Y Su Conjunto                    ╎ El Baile Alemán                                 ╎ .mp3 ╎       ╎      ╎       │
+│ Shalmaneser                                    ╎ Ticker                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Sheila Chandra                                 ╎ The Zen Kiss                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ This Sentence is True (The Previous Sentence... ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Weaving my Ancestors' Voices                    ╎ .mp3 ╎       ╎      ╎       │
+│ Sigur Rós                                      ╎ Ba Ba Ti Ki Di Do                               ╎ .mp3 ╎       ╎      ╎       │
+│ Simon Turner Fisher                            ╎ Still Moving Light                              ╎ .mp3 ╎       ╎      ╎       │
+│ Slate                                          ╎ Clean Slate                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Slaw                                           ╎ Snakes and Ladders                              ╎ .mp3 ╎       ╎      ╎       │
+│ Space Art                                      ╎ Onyx                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Steph Horak                                    ╎ threehundredandsixtysix                         ╎ .mp3 ╎       ╎      ╎       │
+│ Steve Hackett                                  ╎ Voyage of the Acolyte                           ╎ .mp3 ╎       ╎      ╎       │
+│ Steve Hillage                                  ╎ Green                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Stevie Wishart                                 ╎ The Sound of Gesture                            ╎ .mp3 ╎       ╎      ╎       │
+│ Supertramp                                     ╎ Even In The Quietest Moments                    ╎ .mp3 ╎       ╎      ╎       │
+│ Tagaq                                          ╎ Auk _ Blood                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Sinaa                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Talitha Mackenzie                              ╎ Sòlas                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Tangerine Dream                                ╎ Canyon Cazuma                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cyberjam Collection                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Cyclone                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Destination Berlin                              ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Electronic Soundmaker and Comp                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Encore                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Exit                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Force Majeure                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Hyperborea                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Le Parc                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Lily on the Beach                               ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Livemiles                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Logos                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Melrose                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Miracle Mile                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Near Dark                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Ocean Waves Collection                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Optical Race                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Pergamon                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Phaedra                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Poland                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Ricochet                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Rubycon                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Seven Letters From Tibet                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Silver Siren Collection                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Sorcerer                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Starbound Collection                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Stratosfear                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tangerine Tree                                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tangines Scales                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tangram                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Dante Song Collection                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The Independent Years                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Thief                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ TimeSquare_ Dream Mixes Vol. 2                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Transsiberia                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Tyger                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Underwater Sunlight                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ White Eagle                                     ╎ .mp3 ╎       ╎      ╎       │
+│ Tanita Tikaram                                 ╎ Ancient Heart                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Team Metlay                                    ╎ Bandwidth                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Beneath Stars                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Terry Riley                                    ╎ In C                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Test Department_Brith Gof                      ╎ Gododdin                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Test Dept                                      ╎ Pax Britannica                                  ╎ .mp3 ╎       ╎      ╎       │
+│ The Art of Noise                               ╎ Reduction                                       ╎ .mp3 ╎       ╎      ╎       │
+│ The Black Dog                                  ╎ Music for Adverts (and Short Films)             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Spanners                                        ╎ .mp3 ╎       ╎      ╎       │
+│ The Bulgarian State Radio and Television Fe... ╎ Le Mystère des Voix Bulgares (Volume 1)         ╎ .mp3 ╎       ╎      ╎       │
+│ The Future Sound of London                     ╎ Lifeforms                                       ╎ .mp3 ╎       ╎      ╎       │
+│ The Omega Syndicate                            ╎ Synth Hosanna Xmas                              ╎ .mp3 ╎       ╎      ╎       │
+│ The Philharmonia                               ╎ Rapsodie Espagnole, Daphnis et Chloé Suite I... ╎ .mp3 ╎       ╎      ╎       │
+│ The Righteous Brothers                         ╎ Ghost                                           ╎ .mp3 ╎       ╎      ╎       │
+│ Thom Willems                                   ╎ The Loss of Small Detail                        ╎ .mp3 ╎       ╎      ╎       │
+│ Tony Gerber                                    ╎ Bonfire                                         ╎ .mp3 ╎       ╎      ╎       │
+│ TouchXtone                                     ╎ One                                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Two                                             ╎ .mp3 ╎       ╎      ╎       │
+│ Transcript                                     ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Triptychos                                     ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│ Ultravox                                       ╎ Vienna                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Under the Dome                                 ╎ The Demon-Haunted World                         ╎ .mp3 ╎       ╎      ╎       │
+│ Uniform                                        ╎ Protocol                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Unknown Artist                                 ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Unknown Album                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Unknown Album                                   ╎      ╎       ╎ .wav ╎       │
+│                                                ╎ Unknown Album                                   ╎      ╎       ╎ .wav ╎       │
+│ Vangelis                                       ╎ 1492_ Conquest of Paradise                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Albedo 0.39                                     ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Beaubourg                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Blade Runner                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Chariots of Fire                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ China                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Direct                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Earth                                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ El Greco                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Heaven and Hell                                 ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Ignacio                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Invisible Connections                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ L'Apocalypse des Animaux                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Mask                                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Mythodea                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Oceanic                                         ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Opera Sauvage                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ See You Later                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Soil Festivities                                ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Spiral                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ The City                                        ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Themes                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Voices                                          ╎ .mp3 ╎       ╎      ╎       │
+│ Vangelis Papathanassiou & Irene Papas          ╎ Rapsodies                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Various Artists                                ╎ DiN - Submission 01 (DiNDDL10)                  ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ DiN - iNDEX02 (DiN20)                           ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Different Skies_ Arcs & Angles                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Spitalfields Xenakis                            ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Various - Tone Science Module No.1 Structure... ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Various - iNDEX03 (DiN30)                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Various - iNDEX04 (DiN40)                       ╎      ╎ .flac ╎      ╎       │
+│ Verity                                         ╎ Digital Planet                                  ╎ .mp3 ╎       ╎      ╎       │
+│ Vivaldi • Albinoni • Corelli                   ╎ Concertos                                       ╎ .mp3 ╎       ╎      ╎       │
+│ Warsaw Village Band                            ╎ Nord                                            ╎ .mp3 ╎       ╎      ╎       │
+│ Yarkin Türk Ritm Grubu                         ╎ Ten                                             ╎ .mp3 ╎       ╎      ╎       │
+│ Yves Robert_Vincent Courtois_Cyril Atef        ╎ In Touch                                        ╎ .mp3 ╎       ╎      ╎       │
+│ astral engineering                             ╎ chronoglide                                     ╎ .mp3 ╎       ╎      ╎       │
+│ charles graef                                  ╎ Symphony No. 1                                  ╎ .mp3 ╎       ╎      ╎       │
+│ jhno                                           ╎ Understand                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ kwno                                            ╎ .mp3 ╎       ╎      ╎       │
+│ metlay!                                        ╎ Band of Fire                                    ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ after silence                                   ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ eocene                                          ╎ .mp3 ╎       ╎      ╎       │
+│ mindSpiral                                     ╎ Curiosa Positronica                             ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Triangulum                                      ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ the 1 is silent                                 ╎ .mp3 ╎       ╎      ╎       │
+│ software                                       ╎ Syn Code                                        ╎ .mp3 ╎       ╎      ╎       │
+│ Валенти́на Пономарёва                          ╎ ГРАНД КОЛЛЕКЦИЯ                                 ╎ .mp3 ╎       ╎      ╎       │
+│ улица                                          ╎ Through the Stillness of Village Paths          ╎ .mp3 ╎       ╎      ╎       │
+│ マユミ                                            ╎ Garden in the Sky                               ╎ .mp3 ╎       ╎      ╎       │
+└────────────────────────────────────────────────┴─────────────────────────────────────────────────┴──────┴───────┴──────┴───────┘
