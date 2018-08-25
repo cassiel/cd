@@ -3,7 +3,7 @@
             [table.core :as t]
             [table.width :refer [*width*]]))
 
-(spit "output.txt" (t/table-str [[1 2] [3 4] [5 6]] :style :unicode))
+;;(spit "output.txt" (t/table-str [[1 2] [3 4] [5 6]] :style :unicode))
 
 (def TYPES ["mp3" "flac" "wav" "aiff"])
 
@@ -35,7 +35,7 @@
       :result
       reverse))
 
-(dedup-first-column (seq [[1 2 3] [4 5 6] [4 7 8]]))
+;;(dedup-first-column (seq [[1 2 3] [4 5 6] [4 7 8]]))
 
 (let [grammar-matcher (.getPathMatcher
                        (java.nio.file.FileSystems/getDefault)
