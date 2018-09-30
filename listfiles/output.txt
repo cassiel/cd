@@ -188,6 +188,7 @@
 │                                                ╎ Zoolook                                         ╎ .mp3 ╎       ╎      ╎       │
 │ Jeff Wayne                                     ╎ The War of the Worlds                           ╎ .mp3 ╎       ╎      ╎       │
 │ Jerome & Edgar Froese                          ╎ Final Movement                                  ╎      ╎ .flac ╎      ╎       │
+│ Jlin                                           ╎ Jlin - Autobiography (Music from Wayne McGre... ╎      ╎ .flac ╎      ╎       │
 │ Joe McMahon                                    ╎ Ocean Music                                     ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Shatterday                                      ╎ .mp3 ╎       ╎      ╎       │
 │ Johannes Schmoelling                           ╎ Songs No Words - Lieder ohne Worte              ╎ .mp3 ╎       ╎      ╎       │
@@ -200,7 +201,9 @@
 │                                                ╎ Cathedral Oceans                                ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Cathedral Oceans II                             ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Cathedral Oceans III                            ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Metamatic                                       ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Metamatic [Disc 1]                              ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Metamatic [Disc 2]                              ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Metamatic [Disc 3]                              ╎      ╎ .flac ╎      ╎       │
 │ John Foxx & Louis Gordon                       ╎ Shifting City                                   ╎ .mp3 ╎       ╎      ╎       │
 │ John Tavener                                   ╎ Two Hymns to the Mother of God                  ╎ .mp3 ╎       ╎      ╎       │
 │ John Taverner - Missa Gloria tibi Trinitati... ╎ Taverner_Missa Gloria tibi Trinitatis - Parrott ╎ .mp3 ╎       ╎      ╎       │
@@ -299,7 +302,7 @@
 │                                                ╎ Thoughts                                        ╎ .mp3 ╎       ╎      ╎       │
 │ Passengers                                     ╎ Original Soundtracks 1                          ╎ .mp3 ╎       ╎      ╎       │
 │ Paul Nagle                                     ╎ Earthshaper                                     ╎ .mp3 ╎       ╎      ╎       │
-│ Peter Baumann                                  ╎ Machines of Desire                              ╎ .mp3 ╎       ╎      ╎       │
+│ Peter Baumann                                  ╎ Machines of Desire                              ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ Romance 76                                      ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Trans Harmonic Nights                           ╎      ╎ .flac ╎      ╎       │
 │ Peter Gabriel                                  ╎ PG4                                             ╎ .mp3 ╎       ╎      ╎       │
@@ -311,43 +314,6 @@
 │ Piano Circus                                   ╎ transmission                                    ╎ .mp3 ╎       ╎      ╎       │
 │ Pink Floyd                                     ╎ The Dark Side of the Moon                       ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Wish You Were Here                              ╎ .mp3 ╎       ╎      ╎       │
-│ Podcasts                                       ╎ A History of the World in 100 Objects           ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ A Point of View                                 ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Art + Music + Technology                        ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Best of Today                                   ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Breakfast Show Specialist Classical Chart       ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Click                                           ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Codes that Changed the World                    ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Computing Britain                               ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ David Attenborough_s Life Stories               ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ DumTeeDum - A show about The BBC show The Ar... ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ DumTeeDum - A show about The BBC's The Archers  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Friday Night Comedy from BBC Radio 4            ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Friday Night Comedy from BBC Radio 4 Podcast    ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ From Our Own Correspondent                      ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ In Our Time                                     ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ In Our Time With Melvyn Bragg                   ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ John Taylor on being an inventor _ The Life ... ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Late Junction Sessions                          ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ More or Less_ Behind the Stats                  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ More or Less_ Behind the Stats Podcast          ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ My Daily Phrase German                          ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ New Departures                                  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ New Music Strategies                            ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Our Man in the Middle East                      ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Reith Lectures                                  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ SOUND ON SOUND_ 27+ Years as the Trusted Ind... ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Science Weekly                                  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Shift Run Stop                                  ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Slow German                                     ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Archers                                     ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Digital Human                               ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Life Scientific                             ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Radio 3 Documentary                         ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Reith Lectures                              ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ The Sonic Arts Network Podcast Series           ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Tweet of the Day                                ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ War and Peace                                   ╎ .mp3 ╎       ╎      ╎       │
 │ Portico Quartet                                ╎ Knee-Deep in the North Sea                      ╎ .mp3 ╎       ╎      ╎       │
 │ Rakkas                                         ╎ Rakkas                                          ╎ .mp3 ╎       ╎      ╎       │
 │ Ravi Shankar                                   ╎ Inside the Kremlin                              ╎ .mp3 ╎       ╎      ╎       │
@@ -414,7 +380,8 @@
 │                                                ╎ Optical Race                                    ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Pergamon                                        ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Phaedra                                         ╎ .mp3 ╎       ╎      ╎       │
-│                                                ╎ Poland                                          ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Poland [Disc 1]                                 ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ Poland [Disc 2]                                 ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ Ricochet                                        ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Rubycon                                         ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Seven Letters From Tibet                        ╎ .mp3 ╎       ╎      ╎       │
@@ -486,9 +453,12 @@
 │                                                ╎ Themes                                          ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Voices                                          ╎ .mp3 ╎       ╎      ╎       │
 │ Vangelis Papathanassiou & Irene Papas          ╎ Rapsodies                                       ╎ .mp3 ╎       ╎      ╎       │
-│ Various Artists                                ╎ DiN - Submission 01 (DiNDDL10)                  ╎      ╎ .flac ╎      ╎       │
+│ Various Artists                                ╎ A Brief History of Ambient, Volume 1 [Disc 1]   ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ A Brief History of Ambient, Volume 1 [Disc 2]   ╎      ╎ .flac ╎      ╎       │
+│                                                ╎ DiN - Submission 01 (DiNDDL10)                  ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ DiN - iNDEX02 (DiN20)                           ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ Different Skies_ Arcs & Angles                  ╎ .mp3 ╎       ╎      ╎       │
+│                                                ╎ Meta Gesture Music                              ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ Space1999 40th Anniversary Edition - Year On... ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ Space1999 40th Anniversary Edition - Year On... ╎      ╎ .flac ╎      ╎       │
 │                                                ╎ Space1999 40th Anniversary Edition - Year On... ╎      ╎ .flac ╎      ╎       │
@@ -500,9 +470,11 @@
 │ Vivaldi • Albinoni • Corelli                   ╎ Concertos                                       ╎ .mp3 ╎       ╎      ╎       │
 │ Warsaw Village Band                            ╎ Nord                                            ╎ .mp3 ╎       ╎      ╎       │
 │ Yarkin Türk Ritm Grubu                         ╎ Ten                                             ╎ .mp3 ╎       ╎      ╎       │
+│ You Are Wolf                                   ╎ You Are Wolf - KELD                             ╎      ╎ .flac ╎      ╎       │
 │ Yves Robert_Vincent Courtois_Cyril Atef        ╎ In Touch                                        ╎ .mp3 ╎       ╎      ╎       │
 │ astral engineering                             ╎ chronoglide                                     ╎ .mp3 ╎       ╎      ╎       │
 │ charles graef                                  ╎ Symphony No. 1                                  ╎ .mp3 ╎       ╎      ╎       │
+│ hatis noit                                     ╎ Universal Quiet                                 ╎      ╎ .flac ╎      ╎       │
 │ jhno                                           ╎ Understand                                      ╎ .mp3 ╎       ╎      ╎       │
 │                                                ╎ kwno                                            ╎ .mp3 ╎       ╎      ╎       │
 │ metlay!                                        ╎ Band of Fire                                    ╎ .mp3 ╎       ╎      ╎       │
