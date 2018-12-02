@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	24932
+#	43878
+#	66613
+#	81390
+#	108168
+#	134380
+#	159040
+#	171499
+#	215332
+#	252071
+#	283926
+#
+# Disc length: 4493
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: cddb.el 1.0 (Emacs 24.3.50.1)
+#
+DISCID=ab118b0c
+DTITLE=Various / Deutsche Elektronische Musik 2 [Disc 2]
+DYEAR=2013
+DGENRE=Electronica
+TTITLE0=A.R. & Machines / Als Hätt Ich Das Alles Schon Mal Gesehen
+TTITLE1=Gila / Sundance Chant
+TTITLE2=Neu! / Isi
+TTITLE3=Pyrolator / Danger Cruising
+TTITLE4=Sergius Golowin / Die Weisse Alm
+TTITLE5=You / Electric Day
+TTITLE6=Niagara / Gibli
+TTITLE7=Popol Vuh / Ja Sie Sollen Gottes Kinder Heissen Agnus Dei, Agnus Dei
+TTITLE8=Rolf Trostel / Der Prophet
+TTITLE9=Electric Sandwich / China
+TTITLE10=Asmus Tietchens / Zeebrugge
+TTITLE11=Faust / Krautrock
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

@@ -1,0 +1,41 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	28279
+#	45615
+#	66995
+#	94097
+#	122396
+#	148984
+#	171629
+#
+# Disc length: 2534 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.90
+#
+DISCID=7809e408
+DTITLE=Jean-Michel Jarre / Geometry of Love
+DYEAR=2003
+DGENRE=Electronic
+TTITLE0=Pleasure Principle
+TTITLE1=Geometry of Love part 1
+TTITLE2=Soul Intrusion
+TTITLE3=Electric Flesh
+TTITLE4=Skin Paradox
+TTITLE5=Velvet Road
+TTITLE6=Near Djaina
+TTITLE7=Geometry of Love part 2
+EXTD= YEAR: 2003
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
+.
