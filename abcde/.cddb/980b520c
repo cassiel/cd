@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	8662
+#	22814
+#	38374
+#	49431
+#	66830
+#	98064
+#	128387
+#	147439
+#	171383
+#	194582
+#	210844
+#
+# Disc length: 2900 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer 1.60beta16
+#
+DISCID=980b520c
+DTITLE=Vangelis / Blade Runner [Disc 3]
+DYEAR=2007
+DGENRE=Soundtrack
+TTITLE0=Launch Approval
+TTITLE1=Up and Running
+TTITLE2=Mail from India
+TTITLE3=BR Downtown
+TTITLE4=Dimitri's Bar
+TTITLE5=Sweet Solitude
+TTITLE6=No Expectation Boulevard
+TTITLE7=Vadavarot
+TTITLE8=Perfume Exotico
+TTITLE9=Spotkanie Z Matka
+TTITLE10=Piano in an Empty Room
+TTITLE11=Keep Asking
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.
