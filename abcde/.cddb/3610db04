@@ -1,0 +1,29 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	73212
+#	162720
+#	243907
+#
+# Disc length: 4317 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=3610db04
+DTITLE=Tangerine Dream / Encore
+DYEAR=1977
+DGENRE=Electronic
+TTITLE0=Cherokee Lane
+TTITLE1=Monolight
+TTITLE2=Coldwater Canyon
+TTITLE3=Desert Dream
+EXTD= YEAR: 1977
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
+.

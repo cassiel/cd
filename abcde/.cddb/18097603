@@ -1,0 +1,26 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	82932
+#	116600
+#
+# Disc length: 2424 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=18097603
+DTITLE=Tangerine Dream / Force Majeure
+DYEAR=1979
+DGENRE=Electronic
+TTITLE0=Force Majeure
+TTITLE1=Cloudburst Flight
+TTITLE2=Thru Metamorphic Rocks
+EXTD= YEAR: 1979
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
+.
