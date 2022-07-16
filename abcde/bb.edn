@@ -7,7 +7,7 @@
                            (fs/delete-on-exit wav))))
 
          test  (shell {:extra-env {"FOO" "fred"}} (format "%senv" "print"))
-         rip   (shell {:extra-env {"EDITOR" "emacs"}} "abcde")
+         rip   (shell {:extra-env {"EDITOR" "emacsclient"}} "abcde")
          check (shell "cdparanoia -vsQ")
          lm-1  (do-tracks "1-8")
          lm-2  (do-tracks "9-17")}}
