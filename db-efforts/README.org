@@ -1,0 +1,13 @@
+-*- mode: org; mode: visual-line; -*-
+#+STARTUP: indent
+
+* DATABASE BUILD
+** 2026-05-03
+
+Retrace steps to build flat ORM from UAL teaching material. Steps:
+
+- Build database (flat table) via pandas from legacy text dumps
+- Get ORM model stack going
+- Migrations to align model with legacy database
+
+To think about: how best to import and store dates.

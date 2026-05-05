@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
+
+:root {
+    --marimo-text-font: 'Domine', serif;
+}
+
+h1 {
+    color: light-dark(hsl(50, 80%, 30%), hsl(50, 80%, 70%));
+    font-weight: 600;
+}
+
+h2 {
+    color: light-dark(darkorange, orange);
+    font-weight: 600;
+}
+
+h3 {
+    color: light-dark(blue, lightblue);
+}
+
+.paragraph code, li code {
+    color: light-dark(purple, pink);
+    font-size: 1.05rem;
+}
+
+.paragraph em, li em {
+    color: light-dark(hsl(350, 100%, 30%), hsl(350, 100%, 75%));
+}
+
+span.me, span.aside {
+    color: light-dark(gray, lightgray);
+}
+
+span.warning {
+    color: light-dark(darkorange, orange);
+    font-variant: small-caps;
+    font-weight: 600;
+}
