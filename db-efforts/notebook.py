@@ -4,19 +4,15 @@
 #     "flask-migrate==4.1.0",
 #     "flask-sqlalchemy==3.1.1",
 #     "marimo",
+#     "pandas==3.0.2",
 # ]
 # requires-python = ">=3.14"
 # ///
 
 import marimo
 
-__generated_with = "0.20.4"
+__generated_with = "0.23.5"
 app = marimo.App(width="medium", css_file="css/marimo.css")
-
-
-@app.cell
-def _():
-    return
 
 
 @app.cell
@@ -148,7 +144,7 @@ def _():
     return (A,)
 
 
-@app.cell
+@app.cell(disabled=True)
 def _(A):
     with A.app.app_context():
         A.db.drop_all()
@@ -165,12 +161,39 @@ def _(mo):
 
     Generate migration steps with:
 
-    `$ flask db migrate`
+    `$ flask db migrate -m "<migration name>"`
 
     Commit migrations with:
 
-    `$ flask -A app_with_model db migrate -m "<migration name>"`
+    `$ flask db upgrade`
     """)
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    ## Data Input
+    """)
+    return
+
+
+@app.cell
+def _():
+    import pandas as pd
+
+    return (pd,)
+
+
+@app.cell
+def _(pd):
+    pd.read_csv("borg.csv", parse_dates=["Modified"])
+    return
+
+
+@app.cell(hide_code=True)
+def _(pd):
+    pd.read_csv("morse.csv")
     return
 
 
