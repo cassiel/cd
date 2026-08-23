@@ -1,0 +1,2 @@
+{:tasks {notebook
+         {:task (shell "uvx marimo edit --sandbox notebook.py")}}}
