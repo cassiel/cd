@@ -1,4 +1,4 @@
-"""Initial migration to establish model.
+"""Drop format table, add is_physical field.
 
 Revision ID: 7810a7921a12
 Revises: 9c0ab3d41f55
