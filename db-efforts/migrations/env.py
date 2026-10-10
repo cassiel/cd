@@ -90,7 +90,13 @@ def run_migrations_online():
                 directives[:] = []
                 logger.info('No changes in schema detected.')
 
-    conf_args = current_app.extensions['migrate'].configure_args
+    # Work on a copy: env.py is re-executed on every Alembic command, and
+    # `process_revision_directives` closes over this run's `config`. Storing
+    # it in the shared dict would leave later runs (e.g. `migrate` after an
+    # `upgrade` in the same long-lived process) using a stale closure whose
+    # `cmd_opts` lacks `autogenerate`, silently disabling the empty-revision
+    # check.
+    conf_args = dict(current_app.extensions['migrate'].configure_args)
     if conf_args.get("process_revision_directives") is None:
         conf_args["process_revision_directives"] = process_revision_directives
 
